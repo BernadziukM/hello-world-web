@@ -14,7 +14,7 @@ Instrukcja jak stworzyc prostą stronę.
 ## Przykład użycia
 
 Jak uruchomić projekt: 
-Otworzyc plik strona1.html w przegladarce.
+
 
 
 
